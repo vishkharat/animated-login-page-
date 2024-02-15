@@ -29,6 +29,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 Font Awesome for the icons.
 
  # repositorylink
+ https://github.com/vishkharat/animated-login-page-
+
+ # created by 
+ vishal kharat
 
 
 
